@@ -4,4 +4,6 @@ class game-changer
   def game-changer-nice
   end
   def game-chnager-good
+  end
+  def game-changer-better
 end
